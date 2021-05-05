@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Habit-Tracker-clone/static/css/main.3e3e8324.chunk.css",
+    "main.js": "/Habit-Tracker-clone/static/js/main.7d7cc9f8.chunk.js",
+    "main.js.map": "/Habit-Tracker-clone/static/js/main.7d7cc9f8.chunk.js.map",
+    "runtime-main.js": "/Habit-Tracker-clone/static/js/runtime-main.1cff85ff.js",
+    "runtime-main.js.map": "/Habit-Tracker-clone/static/js/runtime-main.1cff85ff.js.map",
+    "static/js/2.4d6e2d23.chunk.js": "/Habit-Tracker-clone/static/js/2.4d6e2d23.chunk.js",
+    "static/js/2.4d6e2d23.chunk.js.map": "/Habit-Tracker-clone/static/js/2.4d6e2d23.chunk.js.map",
+    "static/js/3.f8bda28e.chunk.js": "/Habit-Tracker-clone/static/js/3.f8bda28e.chunk.js",
+    "static/js/3.f8bda28e.chunk.js.map": "/Habit-Tracker-clone/static/js/3.f8bda28e.chunk.js.map",
+    "index.html": "/Habit-Tracker-clone/index.html",
+    "static/css/main.3e3e8324.chunk.css.map": "/Habit-Tracker-clone/static/css/main.3e3e8324.chunk.css.map",
+    "static/js/2.4d6e2d23.chunk.js.LICENSE.txt": "/Habit-Tracker-clone/static/js/2.4d6e2d23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cff85ff.js",
+    "static/js/2.4d6e2d23.chunk.js",
+    "static/css/main.3e3e8324.chunk.css",
+    "static/js/main.7d7cc9f8.chunk.js"
+  ]
+}
