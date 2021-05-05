@@ -1,6 +1,6 @@
 # Habit-Tracker-clone
 리액트로 제작하는 습관 체크 프로젝트 클론 코딩입니다.
-https://songyi4669.github.io/Habit-Tracker-clone/
+https://6092883f70492a00c9fdcb78--song-habit-tracker.netlify.app
 
 
    
